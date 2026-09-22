@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Interactive-Product-Demo-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Interactive-Product-Demo-Platform?style=flat-square&logo=github" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Interactive-Product-Demo-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Interactive-Product-Demo-Platform?style=flat-square&logo=github" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Interactive-Product-Demo-Platform/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Interactive-Product-Demo-Platform?style=flat-square&logo=github" alt="GitHub Forks"/></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square" alt="License"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Interactive-Product-Demo-Platform/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a>
@@ -76,7 +76,7 @@ Full-featured no-code interactive demo platforms are largely commercial, but the
 
 1. 🍴 **Fork** the repository.
 2. 📝 Add or edit entries in [`README.md`](README.md) following the existing table format.
-3. ℹ️ Include: Name, website/repository link, description, pricing details, and star count badges (for open source).
+3. ℹ️ Include: Name, website/repository link, description, pricing details, and Stars_Count badges (for open source).
 4. 🚀 Submit a **Pull Request** with a clear explanation of your addition.
 
 ---
